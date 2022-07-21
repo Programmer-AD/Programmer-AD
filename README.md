@@ -6,5 +6,5 @@ Also i love to learn new things. I prefer self-learning through reading. In my o
 
 ## Links
 
-- [My skills](./Skills.md)
 - [Project descriptions](./Projects.md)
+- [LinkedIn](https://www.linkedin.com/in/andrey-dmytrenko)
