@@ -17,6 +17,8 @@ It's project that was created to access laboratory of IT-company. It's simple fo
 
 Done with ASP.NET Core / ReactJS
 
+**Was cleaned!** 
+
 [Project link](https://github.com/Programmer-AD/ForumTask)
 
 ### Pros (+)
@@ -24,16 +26,17 @@ Done with ASP.NET Core / ReactJS
 - Working and functional complete project (due to task)
 - Correctly complete 3-layer architecture
 - Using actual technology stack (on moment of writing)
+- Clean code (was majorly cleaned)
+- Great tests (was rewriten)
 
 ### Cons (-)
 
-- Poor tests
-- Not very clean code
-- Some architecture and configuration overhead
+- Some issues remain as legacy from version before cleaning
+- Not a lot of tests
 
 ### Why it mentioned?
 
-It has fully working ReactJS SPA and its not bad example of ASP.NET Core application with 3-layer architecture
+It has fully working ReactJS SPA and it's example of ASP.NET Core application with 3-layer architecture
 
 
 
@@ -123,7 +126,7 @@ This project was written at laboratory of IT-company due to their tasks. It has 
 
 Done with ASP.NET Core
 
-**Due to NDA can't be in public access. Can show some parts from my screen.**
+**Due to NDA can't be in public access. Can explain what was written.**
 
 ### Pros (+)
 
