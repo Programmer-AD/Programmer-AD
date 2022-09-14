@@ -8,7 +8,6 @@
 - [UnInstructed](#uninstructed)
 - [WordSearch](#wordsearch)
 - [MazeTowers](#mazetowers)
-- [GameStore_lab](#gamestorelab)
 - [Other](#other)
 
 ## ForumTask 
@@ -117,30 +116,6 @@ Done with Unity2D
 ### Why it mentioned?
 
 Interesting maze generation/solving algorithms
-
-
-
-## GameStore_lab
-
-This project was written at laboratory of IT-company due to their tasks. It has been written from 24 October 2021 to ~13 (29) June 2022.
-
-Done with ASP.NET Core
-
-**Due to NDA can't be in public access. Can explain what was written.**
-
-### Pros (+)
-
-- Was written by IT-company tasks and checked by mentors
-- Using docker (self-added feature)
-- Clean code (due to company standarads)
-
-### Cons (-)
-
-- Some of tasks were really unlogical and so is result.
-
-### Why it mentioned?
-
-Commercial experience (~8 month)
 
 
 
