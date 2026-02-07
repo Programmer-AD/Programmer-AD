@@ -7,4 +7,4 @@ Also i love to learn new things. I prefer self-learning through reading. In my o
 ## Links
 
 - [Project descriptions](./Projects.md)
-- [LinkedIn](https://www.linkedin.com/in/andrey-dmytrenko)
+- [LinkedIn](www.linkedin.com/in/programmer-ad)
