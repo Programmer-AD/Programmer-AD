@@ -6,5 +6,5 @@ Also i love to learn new things. I prefer self-learning through reading. In my o
 
 ## Links
 
+- [LinkedIn](https://www.linkedin.com/in/programmer-ad)
 - [Project descriptions](./Projects.md)
-- [LinkedIn](www.linkedin.com/in/programmer-ad)
