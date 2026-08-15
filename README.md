@@ -1,10 +1,16 @@
 # About me
 
-Programing is large part of my live since i discovered it in ~2017. I love to implement new ideas and automate repeating tasks. 
+I am experienced Senior .NET Developer with a strong background in software engineering, specializing in C# and .NET technologies.
+Programming has been a significant part of my life since I discovered it around 2017.
+I am passionate about bringing new ideas to life and automating repetitive tasks to enhance efficiency.
 
-Also i love to learn new things. I prefer self-learning through reading. In my opinion to be good developer you should learn all time and practice obtained skills.
+---
+
+You can take a look at the pinned projects for code examples.
+
+> Note: most of them were at the beginning of my career, I have improved a lot since then 😅
 
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/programmer-ad)
-- [Project descriptions](./Projects.md)
+- [Email](mailto:andrey08112003@gmail.com)
