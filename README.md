@@ -1,6 +1,7 @@
 # About me
 
 I am experienced Senior .NET Developer with a strong background in software engineering, specializing in C# and .NET technologies.
+
 Programming has been a significant part of my life since I discovered it around 2017.
 I am passionate about bringing new ideas to life and automating repetitive tasks to enhance efficiency.
 
